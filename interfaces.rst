@@ -1,6 +1,8 @@
 Interfaces
 ==========
 
+.. _accueil:
+
 Accueil
 -------
 
@@ -108,5 +110,15 @@ installé, alors les données seront remplies de manière automatique.
 
   Exemple de remplissage d'une boîte fichier
 
+**Cas particulier des boîtes « automatiques » :**
+
+Dans certains cas, un bouton permettant le remplissage automatique de certaines
+données (indiquées à l'aide du mot-clé *auto*) est disponible. En cliquant dessus,
+les données sont remplacées par les valeurs calculées par aLTAG3D.
+
+.. figure:: _static/images/auto.gif
+  :align: center
+
+  Exemple de remplissage automatique
 
 .. _Forum: http://forum3d.huma-num.fr/
