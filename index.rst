@@ -3,12 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to aLTAG3D's documentation!
-===================================
+Bienvenue sur la documentation utilisateur de aLTAG3D !
+=======================================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Contenu:
 
    intro
    interfaces
@@ -19,8 +19,7 @@ Welcome to aLTAG3D's documentation!
 
 
 
-Indices and tables
-==================
+Rechercher
+==========
 
-* :ref:`genindex`
 * :ref:`search`

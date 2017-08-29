@@ -29,3 +29,8 @@ ce fichier doit toujours être à jour, il détermine la structure même du logi
 Cependant ne soyez pas inquiet, si votre logiciel utilise un fichier XSD obsolète,
 le seul risque est le refus de votre archive par le CINES. Une simple :ref:`mise à jour du XSD <accueil>`
 et des données permettra de résoudre ce problème.
+
+.. NOTE::
+   La documentation développeur est disponible ici_ !
+
+.. _ici: https://readthedocs.org/projects/altag3d-devdoc/
