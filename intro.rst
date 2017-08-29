@@ -33,4 +33,4 @@ et des données permettra de résoudre ce problème.
 .. NOTE::
    La documentation développeur est disponible ici_ !
 
-.. _ici: https://readthedocs.org/projects/altag3d-devdoc/
+.. _ici: http://altag3d-devdoc.readthedocs.io/fr/latest/
