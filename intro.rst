@@ -30,7 +30,8 @@ Cependant ne soyez pas inquiet, si votre logiciel utilise un fichier XSD obsolè
 le seul risque est le refus de votre archive par le CINES. Une simple :ref:`mise à jour du XSD <accueil>`
 et des données permettra de résoudre ce problème.
 
-.. NOTE::
-   La documentation développeur est disponible ici_ !
+.. ATTENTION::
+  Ceci est la documentation utilisateur du logiciel aLTAG3D, si vous cherchez la
+  documentation développeur, elle est disponible ici_ !
 
 .. _ici: http://altag3d-devdoc.readthedocs.io/fr/latest/
