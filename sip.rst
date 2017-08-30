@@ -14,6 +14,5 @@ sur la plate-forme du CINES.
 
 .. figure:: _static/images/sip.gif
   :align: center
-  :scale: 30 %
 
   Formulaire d'archivage
