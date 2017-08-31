@@ -17,7 +17,7 @@ Consortium 3D.
 .. image:: _static/images/accueil_maj.png
   :align: center
 
-En case de mise à jour nécessaire, vous trouverez dans cette partie droite un
+En cas de mise à jour nécessaire, vous trouverez dans cette partie droite un
 message vous proposant le passage à la version supérieure. Un clic sur le message
 suffit pour déclencher la mise à jour dans le cas du XSD, pour l'application la
 réinstallation du logiciel est nécessaire.
